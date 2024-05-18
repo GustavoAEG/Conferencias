@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\Conferencias\\Conferencias.csproj": {}
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\conferencias\\Conferencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\Conferencias\\Conferencias.csproj": {
+    "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\conferencias\\Conferencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\Conferencias\\Conferencias.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\conferencias\\Conferencias.csproj",
         "projectName": "Conferencias",
-        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\Conferencias\\Conferencias.csproj",
+        "projectPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\conferencias\\Conferencias.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\Conferencias\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Conferências\\conferencias\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

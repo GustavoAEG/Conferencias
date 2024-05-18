@@ -21,55 +21,43 @@ class Program
             Console.WriteLine(
                 $"Adicionando palestras à trilha {conferencia.Trilhas.IndexOf(trilha) + 1}: sessão da manhã"
             );
-            foreach (var palestra in trilha.Sessoes[0].Palestras)
-            {
-                trilha.Sessoes[0].AdicionarPalestras(palestra);
-            }
+            AdicionarPalestras(trilha.Sessoes[0]);
 
-            // adicionar palestras à sessão da tarde
+            // adicionando palestras - sessão da tarde
             Console.WriteLine(
                 $"Adicionando palestras à trilha {conferencia.Trilhas.IndexOf(trilha) + 1}: sessão da tarde"
             );
-            foreach (var palestra in trilha.Sessoes[1].Palestras)
-            {
-                trilha.Sessoes[1].AdicionarPalestras(palestra);
-            }
+            AdicionarPalestras(trilha.Sessoes[1]);
         }
-
         conferencia.ImprimirPrograma();
     }
+
+    static void AdicionarPalestras(Sessao sessao)
+    {
+        while (true)
+        {
+            Console.WriteLine("Digite o título da palestra (ou 'fim' para encerrar):");
+            string titulo = Console.ReadLine();
+
+            if (titulo.ToLower() == "fim")
+                break;
+
+            Console.WriteLine("Digite a duração da palestra em minutos:");
+            int duracao;
+            if (!int.TryParse(Console.ReadLine(), out duracao))
+            {
+                Console.WriteLine("Duração inválida. Por favor, digite um número.");
+                continue;
+            }
+            else
+            {
+                Console.WriteLine($"Duração da palestra: {duracao} minutos");
+            }
+            Console.WriteLine("A palestra é relâmpago? (S/N)");
+            bool relampago = Console.ReadLine().ToUpper() == "S";
+
+            Palestra palestra = new Palestra(titulo, duracao, relampago);
+            sessao.AdicionarPalestras(palestra);
+        }
+    }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Console.WriteLine("Escolha a taboada desejada ou Zero (0) p - Sair");
-// string opcao = Console.ReadLine();
-// int opcaoInt = int.Parse(opcao);
-
-// int total = 0;
-
-// while(opcaoInt != 0){
-
-// for (int i =0; i < 11; i++){
-
-// total = opcaoInt * i;
-//     Console.WriteLine(opcaoInt + " x " + i + " = " + total);
-// }
-// Console.WriteLine("Escolha a taboada desejada ou Zero (0) p - Sair");
-
-//  opcao = Console.ReadLine();
-//  opcaoInt = int.Parse(opcao);
-// }
