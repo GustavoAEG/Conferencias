@@ -12,3 +12,4 @@ C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\n
 C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.pdb
 C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.genruntimeconfig.cache
 C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\ref\Conferencias.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\conferencias\obj\Debug\net8.0\Conferencias.sourcelink.json

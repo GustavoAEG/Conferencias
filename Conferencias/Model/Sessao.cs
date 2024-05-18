@@ -13,7 +13,7 @@ public class Sessao
         Fim = fim;
     }
 
-    public void AdicionarPalestra(Palestra palestra)
+    public void AdicionarPalestras(Palestra palestra)
     {
         Palestras.Add(palestra);
     }
