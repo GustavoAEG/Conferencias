@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\bin\Debug\net8.0\Conferencias.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\bin\Debug\net8.0\Conferencias.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\bin\Debug\net8.0\Conferencias.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\bin\Debug\net8.0\Conferencias.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\bin\Debug\net8.0\Conferencias.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\refint\Conferencias.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\Conferencias.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\Conferências\Conferencias\obj\Debug\net8.0\ref\Conferencias.dll
